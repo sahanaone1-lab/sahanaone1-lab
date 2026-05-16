@@ -1,16 +1,25 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Sahana</h1>
 
-<!--
-**sahanaone1-lab/sahanaone1-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">CSE Student | Java Developer | DSA Learner</h3>
 
-Here are some ideas to get you started:
+---
+🎓 3rd Year CSE Student  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently learning **Java, DSA, and Web Development**
+
+💻 Working on **Projects and Problem Solving**
+
+🚀 Goal: Become a **Build real-world projects**
+
+---
+
+### 🛠 Tech Stack
+- Java
+- HTML
+- CSS
+- Git & GitHub
+
+---
+
+### ⚡ Fun Fact
+I enjoy turning ideas into projects ✨
